@@ -1,72 +1,104 @@
 :root {
-  --primary: #FC5622;
-  --secondary: #1a2a3a;
-  --tertiary: #1d1a17;
+  --primary: #fff;
+  --secondary: #003049;
+  --tertiary: #546a76;
   --quaternary: #89949e;
   --quinary: #394241;
 }
-
+/* nunito-sans-regular - latin */
 @font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/PlusJakartaSans-ExtraLight.woff2') format('woff2'),
-        url('/fonts/PlusJakartaSans-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* nunito-sans-600 - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* nunito-sans-800 - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* nunito-sans-900 - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+/* nunito-sans-200 - latin */
 @font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/PlusJakartaSans-Medium.woff2') format('woff2'),
-        url('/fonts/PlusJakartaSans-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 200;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* nunito-sans-300 - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* nunito-sans-700 - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('/fonts/nunito-sans-v12-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v12-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+/* libre-baskerville-regular - latin */
 @font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/PlusJakartaSans-Light.woff2') format('woff2'),
-        url('/fonts/PlusJakartaSans-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('/fonts/libre-baskerville-v14-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/libre-baskerville-v14-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-
+/* libre-baskerville-700 - latin */
 @font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/PlusJakartaSans-Regular.woff2') format('woff2'),
-        url('/fonts/PlusJakartaSans-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('/fonts/libre-baskerville-v14-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/libre-baskerville-v14-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-
-@font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/PlusJakartaSans-Bold.woff2') format('woff2'),
-        url('/fonts/PlusJakartaSans-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/PlusJakartaSans-ExtraBold.woff2') format('woff2'),
-        url('/fonts/PlusJakartaSans-ExtraBold.woff') format('woff');
-    font-weight: 800;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'plus-Jakarta-Sans';
-    src: url('/fonts/Butler.woff2') format('woff2'),
-        url('/fonts/Butler.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 
 body {
   margin: 0;
   overflow-x: none;
   background-color: var(--secondary);
+}
+
+h1{
+  font-family: 'Nunito Sans', serif;
+  font-weight: 900;
+  font-size: 2rem;
 }
 
 header {
@@ -83,6 +115,10 @@ html{
 
 section {
   position: relative;
+}
+
+.hero{
+  max-height: 200px;
 }
 
 .logo img{
