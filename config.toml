@@ -1,3 +1,9 @@
 baseURL = "https://arcministry.org/"
 languageCode = "en-us"
 title = "ARC Ministry | Anabaptist Refugee Committee"
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 100
+  resampleFilter = 'Box'

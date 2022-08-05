@@ -2,7 +2,7 @@
   --primary: #fff;
   --secondary: #003049;
   --tertiary: #546a76;
-  --quaternary: #89949e;
+  --quaternary: #C1121F;
   --quinary: #394241;
   --padding: 15px;
   --neg-padding: -15px;
@@ -123,9 +123,52 @@ html{
   scroll-behavior: smooth;
 }
 
+p{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 16px
+}
+
 section {
   position: relative;
-  padding: var(--padding);
+  padding: 40px var(--padding);
+}
+
+.btn--dark{
+  background-color: var(--secondary);
+  color: var(--primary);
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 20px;
+}
+
+.btn--red{
+  background-color: var(--quaternary);
+  color: var(--primary);
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 20px;
+}
+
+.btn--white{
+  background-color: var(--primary);
+  color: var(--secondary);
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 20px;
+}
+
+.d-blue{
+  background-color: var(--secondary);
+}
+
+.d-blue h2, .d-blue p{
+  color: var(--primary);
 }
 
 .hero{
@@ -143,12 +186,20 @@ section {
 
 .hero--section{
   position: unset;
-  height: 570px;
+  height: 540px;
 }
 
 .hero--section h1{
   position: relative;
   top: 60%;
+}
+
+.l-blue{
+  background-color: var(--tertiary);
+}
+
+.l-blue h2, .l-blue p{
+  color: var(--primary);
 }
 
 .logo {
@@ -199,6 +250,34 @@ section {
   left: 0;
   top: 0;
   transition: 0.3s;
+}
+
+.no-top-p{
+  padding-top: 0;
+}
+
+.photo{
+  max-width: 100%;
+}
+
+.photo img{
+  max-width: 100%;
+  max-height: 264px;
+  object-fit: cover;
+}
+
+.regular-flex{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 40px 0;
+}
+
+.reverse-flex{
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 0;
+  padding: 40px 0;
 }
 
 

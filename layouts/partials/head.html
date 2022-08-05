@@ -34,4 +34,6 @@
   {{ if not (in (string .Site.BaseURL) "localhost") }}
     {{ template "_internal/google_analytics_async.html" . }}
   {{ end }}
+
+  <script defer data-domain="arcministry.org" src="https://plausible.io/js/plausible.js"></script>
 </head>
