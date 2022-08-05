@@ -1,6 +1,3 @@
 baseURL = "https://arcministry.org/"
 languageCode = "en-us"
 title = "ARC Ministry | Anabaptist Refugee Committee"
-[module]
-[[module.imports]]
-    path= "github.com/hugo-mods/lazyimg"
