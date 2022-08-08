@@ -24,3 +24,9 @@ hamburger.addEventListener('click', menuOpen);
 menuCloseButton.addEventListener('click', menuClose);
 
 menuItems.addEventListener('click', menuClose);
+
+function hideUpdate(){
+  const update = document.querySelector("#update");
+  update.style.display = 'none';
+  enableScrolling();
+}

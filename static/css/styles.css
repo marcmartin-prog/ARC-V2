@@ -107,6 +107,11 @@ h1{
 }
 h2{
   font-family: 'Nunito Sans', sans-serif;
+  font-size: 24px;
+}
+h3{
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
 }
 
 header {
@@ -215,6 +220,7 @@ section {
 .hero--section{
   position: unset;
   height: 540px;
+  padding-bottom: 0;
 }
 
 .hero--section h1{
@@ -264,7 +270,7 @@ section {
   margin-top: 2rem;
 }
 
-.menu-items a{
+.menu-items a:not(.btn--dark){
   text-align: center;
   font-size: 1.69rem;
   text-decoration: none;
@@ -272,6 +278,13 @@ section {
   font-weight: bold;
   color: var(--tertiary);
   margin: 1rem 0;
+}
+
+.menu-items .btn--dark{
+  font-size: 1.69rem;
+  margin: 1rem auto;
+  max-width: max-content;
+
 }
 
 .mobile-menu{
@@ -306,11 +319,68 @@ section {
   padding: 40px 0;
 }
 
+.signup{
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+}
+
+.signup--card h3{
+  color: var(--primary);
+}
+
 .reverse-flex{
   display: flex;
   flex-direction: column-reverse;
   gap: 0;
   padding: 40px 0;
+}
+
+.update{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(34, 38, 47, 0.9);
+  padding: 20vh var(--padding);
+  z-index: 40;
+  height: 100vh;
+  width: 100%;
+  display: none;
+  transition: 0.2s;
+}
+
+.update--inner img:not(.update--close){
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.update--inner img:not(.update--close), .update--inner h1{
+  border-bottom: 2px solid rgba(34, 38, 47, 0.9);
+}
+
+.update--inner{
+  background-color: var(--secondary);
+  position: relative;
+  z-index: 45;
+}
+
+.update--inner p{
+  margin: 8px 0;
+}
+
+.update--inner div{
+  padding: var(--padding);
+}
+
+.update--close{
+  height: 40px;
+  width: 40px;
+  top: -40px;
+  right: 0;
+  position: absolute;
 }
 
 .verse{
