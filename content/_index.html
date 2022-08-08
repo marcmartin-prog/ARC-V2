@@ -7,7 +7,11 @@ description: "ARC Ministry is a nonprofit organization focused on giving assista
 
 <section class="hero--section">
   <div class="hero">
-    {{< imgh src="city.jpg" alt="Photo overlooking city" >}}
+    
+    <picture>
+      <source srcset="/images/city.webp" media="(min-width: 600px)">
+        <img class="" src="/images/city-m.webp" alt="photo overlooking city" height=“600” width=“600” loading=“lazy” decoding=“async” class="hero--img">
+    </picture>
 
   </div>
   <h1>THE WORK IS GREAT BUT THE LABORERS FEW...</h1>

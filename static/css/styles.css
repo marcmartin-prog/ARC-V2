@@ -178,7 +178,7 @@ section {
 .hero img{
   max-width: 100%;
   object-fit: cover;
-  max-height: 700px;
+  height: 700px;
   position: absolute;
   top: 0;
   left: 0;
@@ -191,7 +191,7 @@ section {
 
 .hero--section h1{
   position: relative;
-  top: 60%;
+  top: 50%;
 }
 
 .l-blue{
