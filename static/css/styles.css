@@ -418,4 +418,13 @@ section {
     font-size: 1rem;
     font-weight: bold;
   }
+
+  .regular-flex, .signup{
+
+    flex-direction: row;
+
+  }
+  .reverse-flex{
+    flex-direction: row-reverse;
+  }
 }

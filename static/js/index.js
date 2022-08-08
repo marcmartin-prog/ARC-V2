@@ -25,8 +25,13 @@ menuCloseButton.addEventListener('click', menuClose);
 
 menuItems.addEventListener('click', menuClose);
 
+const update = document.querySelector("#update");
 function hideUpdate(){
-  const update = document.querySelector("#update");
+
   update.style.display = 'none';
   enableScrolling();
+}
+
+function showUpdate(){
+  update.style.display = "block"
 }
