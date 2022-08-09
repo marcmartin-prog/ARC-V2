@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-<section class="hero--section">
+<section class="hero--section update-hero">
   <div class="hero">
 
     <picture>
@@ -52,23 +52,39 @@ draft: false
           <img src="/images/update-close.svg" alt="close popup" class="update--close" onclick="hideUpdate()">
           <div class="">
             <form name="Print Newsletter Signup" class=""  method="post" netlify>
-              <label for="Name">Name</label>
-              <input type="text" name="Name" value="" required>
-              <label for="Email">Email</label>
-              <input type="email" name="Email" value="">
-              <label for="Phone">Phone</label>
-              <input type="phone" name="Phone" value="">
-              <label for="Address">Address</label>
-              <input type="text" name="Address" value="">
-              <label for="City">City</label>
-              <input type="text" name="City" value="">
-              <label for="State">State</label>
-              <input type="text" name="State" value="">
-              <label for="Zip">ZIP</label>
-              <input type="number" name="Zip" value="">
-              <label for="Message">Message</label>
-              <textarea name="Message" rows="1" cols="80"></textarea>
-              <input type="submit" name="submit" value="SUBMIT">
+              <div class="form-input">
+                <label for="Name">Name</label>
+                <input type="text" class="input" data-placeholder="Name" name="Name" value="" required>
+              </div>
+              <div class="form-input">
+                <label for="Email">Email</label>
+                <input type="email" class="input" data-placeholder="Email" name="Email" value="">
+              </div>
+              <div class="form-input">
+                <label for="Phone">Phone</label>
+                <input type="phone" class="input" data-placeholder="Phone" name="Phone" value="">
+              </div>
+              <div class="form-input">
+                <label for="Address">Address</label>
+                <input type="text" class="input" data-placeholder="Address" name="Address" value="">
+              </div>
+              <div class="form-input">
+                <label for="City">City</label>
+                <input type="text" class="input" data-placeholder="City" name="City" value="">
+              </div>
+              <div class="form-input">
+                <label for="State">State</label>
+                <input type="text" class="input" data-placeholder="State" name="State" value="">
+              </div>
+              <div class="form-input">
+                <label for="Zip">ZIP</label>
+                <input type="number" class="input" data-placeholder="ZIP" name="Zip" value="">
+              </div>
+              <div class="form-input">
+                <label for="Message">Message</label>
+                <textarea name="Message" class="input" data-placeholder="Message" rows="1" cols="80"></textarea>
+              </div>
+              <input type="submit" name="submit" value="SUBMIT" class="btn--white">
             </form>
           </div>
         </div>
