@@ -117,10 +117,12 @@ h1{
 h2{
   font-family: 'Nunito Sans', sans-serif;
   font-size: 24px;
+  font-weight: 900;
 }
 h3{
   font-family: 'Nunito Sans', sans-serif;
   font-size: 20px;
+  font-weight: 900;
 }
 
 header {
@@ -380,6 +382,13 @@ textarea, input:not(.btn--white){
   max-width: 100%;
 }
 
+.project-column img{
+  max-width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+
 .regular-flex{
   display: flex;
   flex-direction: column;
@@ -494,6 +503,18 @@ textarea, input:not(.btn--white){
     display: none;
   }
 
+  .hero img{
+    height: 625px;
+  }
+
+  .hero--section{
+    height: 452px;
+  }
+
+  .hero--section h1{
+    top: 60%;
+  }
+
   .menu{
     display: flex;
     flex-direction: row;
@@ -517,6 +538,10 @@ textarea, input:not(.btn--white){
     color: var(--secondary)!important;
   }
 
+  .project-column p, .project-column h2{
+    text-align: right;
+  }
+
   .regular-flex, .signup{
     flex-direction: row;
     gap: 10%;
@@ -531,6 +556,10 @@ textarea, input:not(.btn--white){
     flex-direction: row;
     gap: 10%;
     justify-content: space-between;
+  }
+
+  .hive{
+    flex-direction: row-reverse;
   }
 
   .reverse-flex div{

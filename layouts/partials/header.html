@@ -1,9 +1,10 @@
 <header>
-  <div class="logo">
+  <a href="/" class="logo">
     <img src="/images/logo.webp" alt="ARC ministry logo">
-  </div>
+  </a>
   <div class="menu">
     <ul>
+      {{if not .IsHome}}<li><a href="/">Home</a></li>{{end}}
       <li><a href="/projects">Currrent Projects</a></li>
       <li><a href="/updates">Updates</a></li>
       <li><a href="volunteer">Volunteer</a></li>
@@ -25,6 +26,7 @@
       </div>
     </div>
     <div class="menu-items">
+      {{if not .IsHome}}<a href="/" class="menu-item">Home</a>{{end}}
       <a href="/projects" class="menu-item">Current Projects</a>
       <a href="/updates" class="menu-item">Updates</a>
       <a href="/volunteer" class="menu-item">Volunteer</a>
