@@ -140,14 +140,15 @@ html{
 }
 
 label{
-  color: var(--primary);
+  color: var(--secondary);
   font-weight: normal;
   font-family: 'Source Sans Pro', sans-serif;
   position: absolute;
   transform-origin: top left;
   transform: translate(0, 16px) scale(1);
   transition: all .1s ease-in-out;
-  bottom: 0;
+  top: -15px;
+  left: 5px;
 }
 
 label:focus{
@@ -241,7 +242,7 @@ textarea, input:not(.btn--white){
   margin: 5px 0;
 }
 
-.form-input label{
+.form-input label:not(.select), .form-input label:not(.date){
   position: absolute;
   transform-origin: top left;
   transform: translate(0, 16px) scale(1);
@@ -250,8 +251,8 @@ textarea, input:not(.btn--white){
 }
 
 .form-input.active label{
-  transform: translate(0, 4px) scale(.75);
-  opacity: 0;
+  transform: translate(0, -5px) scale(.75);
+  color: var(--primary);
 }
 
 .hero{
@@ -259,7 +260,7 @@ textarea, input:not(.btn--white){
 }
 
 .hero img{
-  max-width: 100%;
+  width: 100%;
   object-fit: cover;
   height: 700px;
   position: absolute;
@@ -290,7 +291,7 @@ textarea, input:not(.btn--white){
   margin: auto;
   max-width: 550px;
 }
-.learn-more p, .learn-more h2{
+.learn-more p, .learn-more h2, .application--div h2{
   text-align: center;
 }
 .learn-more a{
@@ -394,6 +395,18 @@ textarea, input:not(.btn--white){
   flex-direction: column;
   gap: 15px;
   padding: 40px 0;
+}
+
+.select{
+  color: var(--primary);
+  position: relative;
+}
+
+.select-input, .text-input{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4px;
+  position: relative;
 }
 
 .signup{
