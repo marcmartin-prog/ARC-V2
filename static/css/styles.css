@@ -310,6 +310,10 @@ textarea, input:not(.btn--white){
   width: max-content;
 }
 
+.history p{
+  max-width: 722px;
+}
+
 .logo img{
   height: 6.5rem;
 }
@@ -377,6 +381,10 @@ textarea, input:not(.btn--white){
   object-fit: cover;
 }
 
+.project{
+  margin: 20px 0;
+}
+
 .project img{
   max-height: 264px;
   object-fit: cover;
@@ -425,9 +433,13 @@ textarea, input:not(.btn--white){
 
 .reverse-flex{
   display: flex;
-  flex-direction: column-reverse;
-  gap: 0;
+  flex-direction: column;
+  gap: 30px;
   padding: 40px 0;
+}
+
+.top-cta{
+  padding-bottom: 0;
 }
 
 .update{
@@ -498,6 +510,17 @@ textarea, input:not(.btn--white){
   color: white;
 }
 
+.vision p{
+  font-weight: 200;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+  letter-spacing: 1.14px
+}
+
+.vision .bold{
+  font-weight: 900;
+}
+
 
 @media only screen and (min-width: 1024px){
 
@@ -566,9 +589,20 @@ textarea, input:not(.btn--white){
   }
 
   .reverse-flex{
-    flex-direction: row;
+    flex-direction: row-reverse;
     gap: 10%;
     justify-content: space-between;
+  }
+
+  .reverse-flex p, .reverse-flex h2{
+    text-align: right;
+  }
+
+  .reverse-flex a{
+    margin-right: 0;
+    margin-left: auto;
+    display: block;
+    max-width: max-content;
   }
 
   .hive{
@@ -581,6 +615,18 @@ textarea, input:not(.btn--white){
 
   .reverse-flex div div, .regular-flex div div, .photo{
     width: 100%;
+  }
+
+  .top-cta p, .top-cta h2{
+    text-align: left
+  }
+  .top-cta a{
+    margin-left: 0;
+    margin-right: auto;
+  }
+
+  .update-hero::after{
+    height: 626px;
   }
 
   .verse{
