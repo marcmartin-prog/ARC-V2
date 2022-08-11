@@ -169,6 +169,36 @@ textarea, input:not(.btn--white){
   height: 20px;
 }
 
+.board{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.board--card img{
+  max-width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.board--card .role{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 200;
+  margin-block-start: 5px;
+  margin-block-end: 0;
+  font-style: italic;
+}
+.board--card .church{
+  font-size: 12px;
+  font-weight: 900;
+  font-family: 'Nunito Sans', sans-serif;
+  margin-block-start: 5px;
+}
+.board--card h2{
+  font-size: 16px;
+  margin-block-end: 0;
+}
+
 .btn--dark{
   background-color: var(--secondary);
   color: var(--primary);
@@ -519,6 +549,24 @@ textarea, input:not(.btn--white){
 
 .vision .bold{
   font-weight: 900;
+}
+
+@media only screen and (min-width: 710px){
+  .board{
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12%;
+  }
+  .board--card{
+    flex: 1;
+    flex-basis: 270px;
+    max-width: 270px;
+    margin-bottom: 30px;
+  }
+
+  .board--card img{
+    height: 180px;
+  }
 }
 
 
