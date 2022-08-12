@@ -734,3 +734,10 @@ textarea, input:not(.btn--white){
     margin: 35px var(--padding);
   }
 }
+
+@media only screen and (min-width: 1410px){
+  :root{
+    --padding: 100px;
+    --neg-padding: -100px;
+  }
+}
