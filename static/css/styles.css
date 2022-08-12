@@ -199,6 +199,11 @@ textarea, input:not(.btn--white){
   margin-block-end: 0;
 }
 
+.bold{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 900;
+}
+
 .btn--dark{
   background-color: var(--secondary);
   color: var(--primary);
@@ -227,6 +232,23 @@ textarea, input:not(.btn--white){
   text-decoration: none;
   font-weight: bold;
   padding: 6px 20px;
+}
+
+.contact{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.contact--info{
+  margin: auto;
+}
+.contact--info p{
+  text-align: center;
+  line-height: 1.5;
+}
+.contact--info a{
+  text-decoration: none;
+  color: var(--secondary);
 }
 
 .d-blue{
@@ -283,6 +305,12 @@ textarea, input:not(.btn--white){
 .form-input.active label{
   transform: translate(0, -5px) scale(.75);
   color: var(--primary);
+}
+
+.heading{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 .hero{
@@ -350,6 +378,11 @@ textarea, input:not(.btn--white){
 
 .menu{
   display: none;
+}
+
+.menu-close{
+  margin-right: 15px;
+  margin-left: auto;
 }
 
 .menu ul, .mobile-menu ul{
@@ -530,6 +563,19 @@ textarea, input:not(.btn--white){
   position: absolute;
 }
 
+.thanks h1{
+  top: 45%;
+}
+.thanks p, .thanks a{
+  z-index: 45;
+  position: relative;
+  top: 48%;
+}
+
+.white{
+  color: var(--primary);
+}
+
 .verse{
   background-color: var(--quaternary);
   padding: 45px var(--padding);
@@ -671,6 +717,13 @@ textarea, input:not(.btn--white){
   .top-cta a{
     margin-left: 0;
     margin-right: auto;
+  }
+
+  .thanks h1{
+    top: 45%;
+  }
+  .thanks p, .thanks a{
+    top: 48%;
   }
 
   .update-hero::after{
