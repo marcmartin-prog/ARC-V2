@@ -130,7 +130,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 1.5rem 1rem 0;
+  padding: 1.5rem var(--padding) 0;
   z-index: 3;
 }
 
@@ -735,9 +735,103 @@ textarea, input:not(.btn--white){
   }
 }
 
-@media only screen and (min-width: 1410px){
+@media only screen and (min-width: 1350px){
   :root{
     --padding: 100px;
     --neg-padding: -100px;
+  }
+
+  h1{
+    font-size: 3rem;
+  }
+
+  h2, h3{
+    font-size: 1.8rem;
+  }
+
+  p{
+    font-size: 1.1rem;
+  }
+
+  section{
+    padding: 60px var(--padding);
+  }
+
+  .hero--section{
+    height: 476px;
+
+  }
+
+  .hero--section h1{
+    top: 51%;
+    max-width: 750px;
+  }
+
+  .hero img{
+    height: 700px;
+  }
+
+  .learn-more, .signup{
+    padding-top: 45px;
+    padding-bottom: 45px;
+  }
+
+  .no-top-p{
+    padding: 30px var(--padding) 60px;
+  }
+
+  .logo img{
+    height: 8.5rem;
+  }
+
+  .menu{
+    padding-top: 25px;
+  }
+
+  .menu a {
+    font-size: 1.2rem
+  }
+
+  .photo img{
+    max-height: 305px;
+  }
+
+  .regular-flex, .reverse-flex,{
+    justify-content: space-around;
+    gap: 0;
+  }
+
+  .signup{
+    justify-content: space-around;
+    gap: 5%;
+  }
+
+  .update-hero::after{
+    height: 700px;
+  }
+}
+
+@media only screen and (min-width: 1750px){
+  :root{
+    --padding: 200px;
+    --neg-padding: -200px;
+  }
+
+  h1{
+    font-size: 3rem;
+  }
+
+  .hero img{
+    height: 945px;
+  }
+
+  .hero--section{
+    height: 775px;
+  }
+
+
+
+  .update-hero::after{
+    height: 945px;
   }
 }
