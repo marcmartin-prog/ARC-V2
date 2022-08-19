@@ -1,11 +1,5 @@
----
-title: "Updates"
-date: 2022-08-05T13:10:18-05:00
-draft: false
-description: "Sign up for updates from ARC Ministry, or browse through past updates on our blog"
----
 
-
+{{ define "main" }}
 <section class="hero--section update-hero">
   <div class="hero">
 
@@ -96,8 +90,12 @@ description: "Sign up for updates from ARC Ministry, or browse through past upda
 
 <section>
   {{ range .Data.Pages }}
-    <div class="">
+    <div class="blog">
       <h2>{{ .Title }}</h2>
+      <p>Posted {{ .Date.Format "Jan 2, 2006"}}</p>
+      <p>{{ .Summary }}</p>
+      <a class="btn--white" href="{{ .Permalink }}">READ MORE</a>
     </div>
   {{ end }}
 </section>
+{{ end }}

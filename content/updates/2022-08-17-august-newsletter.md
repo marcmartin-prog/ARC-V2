@@ -3,6 +3,7 @@ layout: blog
 title: August Newsletter
 date: 2022-08-01T11:35:20.692Z
 thumbnail: english-class.jpg
+summary: "Teaching English is a door into the hearts and lives of Afghan women and children..."
 ---
 ## Why Teach English
 
@@ -26,11 +27,17 @@ God has allowed these unreached people groups to come to us. What will we do abo
 
 \-a former volunteer
 
-![driving with scholar](driving.jpg)
+{{< imgh src="driving.jpg" alt="driving with scholar">}}
 
-![shopping with a scholar](sheep-market.jpg)
+Driving class with a student
 
-![staff in Minneapolis](staff.jpg "Current Staff in Minneapolis")
+{{< imgh src="sheep-market.jpg" alt="shopping with a scholar">}}
+
+A student selecting a sheep for Eid
+
+{{< imgh src="staff.jpg" alt="current staff in Minneapolis">}}
+
+Current staff in Minneapolis
 
 ## Ukraine Refugee Opportunity
 
@@ -38,7 +45,7 @@ We have been researching ways to help out with Ukraine refugees that are coming 
 
 If you are interested in this opportunity, please contact Kevin Weaver to learn more (870)-530-6308 | kevin@arcministry.org
 
-![Ukraine colors](ukraine-flag.jpg)
+{{< imgh src="ukraine-flag.jpg" alt="ukrainian colors">}}
 
 ## Sponsor Needed!!
 
@@ -54,7 +61,7 @@ kevin@arcministry.org
 
 1. Pray that God would open and close doors as we investigate resettlement possibilities.
 2. Pray for the staff that they may stand strong spiritually and physically in the busyness of their days.
-3. Pray for the board that they may have a clear vision of where God wants ARC Ministry to be laboring. 
+3. Pray for the board that they may have a clear vision of where God wants ARC Ministry to be laboring.
 
 ### Volunteer Needs
 
