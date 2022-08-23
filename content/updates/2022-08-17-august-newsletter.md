@@ -2,7 +2,7 @@
 layout: blog
 title: August Newsletter
 date: 2022-08-01T11:35:20.692Z
-thumbnail: english-class.jpg
+thumbnail: class.jpg
 summary: "Teaching English is a door into the hearts and lives of Afghan women and children..."
 ---
 ## Why Teach English
