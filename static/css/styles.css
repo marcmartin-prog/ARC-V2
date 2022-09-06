@@ -236,6 +236,10 @@ textarea, input:not(.btn--white){
   margin-block-end: 0;
 }
 
+.board-img img{
+  object-position: bottom;
+}
+
 .bold{
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 900;
