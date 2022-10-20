@@ -169,6 +169,43 @@ textarea, input:not(.btn--white){
   height: 20px;
 }
 
+.blog{
+  max-width: 600px;
+  background-color: var(--tertiary);
+  padding: 45px 25px;
+  margin: auto;
+}
+
+.blog p, .blog h2{
+  color: white;
+  margin-block-start: 0;
+}
+.blog h2 {
+  margin-block-end: 10px;
+}
+
+.blog-post p, .blog-post h2, .blog-post h3, .blog-post ol, .blog-post ul{
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog-post img{
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 250px;
+  object-fit: cover;
+
+}
+
+.blog-post .bg-center{
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
+
 .board{
   display: flex;
   flex-direction: column;
@@ -197,6 +234,10 @@ textarea, input:not(.btn--white){
 .board--card h2{
   font-size: 16px;
   margin-block-end: 0;
+}
+
+.board-img img{
+  object-position: bottom;
 }
 
 .bold{
@@ -613,6 +654,15 @@ textarea, input:not(.btn--white){
   .board--card img{
     height: 180px;
   }
+
+  .blog-post p, .blog-post h2, .blog-post h3, .blog-post ol, .blog-post ul{
+    max-width: 600px;
+  }
+
+  .blog-post img{
+    max-width: 600px;
+    max-height: 350px;
+  }
 }
 
 
@@ -621,6 +671,10 @@ textarea, input:not(.btn--white){
   :root{
     --padding: 45px;
     --neg-padding: -45px;
+  }
+
+  .blog{
+    padding: 65px 45px;
   }
 
   .footer-menu{
@@ -658,7 +712,7 @@ textarea, input:not(.btn--white){
   .menu a{
     text-decoration: none;
     color: white;
-    margin: 0 1rem;
+    margin: 0 13px;
     font-family: 'plus-Jakarta-Sans', sans-serif;
     font-size: 1rem;
     font-weight: bold;

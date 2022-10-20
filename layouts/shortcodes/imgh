@@ -12,7 +12,7 @@
 	especially if you have a really
 	large number of original images.)
 */}}
-{{- $imgBase := "images/" -}}
+{{- $imgBase := "" -}}
 {{/*
 	This will be from top-level `assets/images`,
 	where we'll keep all images for Hugo's

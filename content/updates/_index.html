@@ -93,3 +93,11 @@ description: "Sign up for updates from ARC Ministry, or browse through past upda
     </div>
   </div>
 </section>
+
+<section>
+  {{ range .Data.Pages }}
+    <div class="">
+      <h2>{{ .Title }}</h2>
+    </div>
+  {{ end }}
+</section>
