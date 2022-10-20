@@ -26,9 +26,10 @@ The Afghans usually eat around 4 or 5 in the afternoon, but our pizza didn’t a
 
 This is the bare bones of what happened at the party. Basically, we just went from one student to the next and from one child to another, talking and playing, connecting and deepening relationships. We left better friends than we came, which made the party a success.
 
-![children playing](party.jpg "Children Playing with Friends")
 
-![picnic lunch](picnic.jpg "Picnic Lunch")
+{{< imgh src="party.jpg" alt="Children Playing with Friends">}}
+
+{{< imgh src="picnic.jpg" alt="Picnic Lunch">}}
 
 ## A Student's Story
 
@@ -48,7 +49,8 @@ I’ll close with some challenging words of Jesus for all of us: “Greater love
 
 \*Name changed to protect identity
 
-![classtime](classtime.jpg "Class in session")
+{{< imgh src="classtime.jpg" alt="Class in Session">}}
+
 
 Greetings to each of you in the worthy name of Jesus. We were blessed as a family to be able to serve in the role of house parents in Minneapolis for six weeks. I had been highly involved as a board member up until this point but what life was really like for the team did not become real until living there and experiencing it first-hand. We thoroughly enjoyed our time!
 
@@ -60,9 +62,9 @@ If you have been interested in serving with ARC in Minneapolis, I would highly e
 
 \-Anthony Martin
 
-![september volunteers](sept-group.jpg "September Group of Volunteers")
+{{< imgh src="sept-group.jpg" alt="September Group of Volunteers">}}
 
-#### Prayer Requests
+### Prayer Requests
 
 1. Pray for the refugees that they could experience the love of Jesus in their lives.
 2. Pray for the staff that they may stand strong spiritually as they live in the city and relate to students.
