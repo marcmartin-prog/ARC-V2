@@ -378,6 +378,10 @@ textarea, input:not(.btn--white){
   top: 50%;
 }
 
+.inline-link{
+  color: white;
+}
+
 .l-blue{
   background-color: var(--tertiary);
 }
@@ -390,7 +394,7 @@ textarea, input:not(.btn--white){
   margin: auto;
   max-width: 550px;
 }
-.learn-more p, .learn-more h2, .application--div h2{
+.learn-more p, .learn-more h2, .application--div h2, .application--div p, .application--div a{
   text-align: center;
 }
 .learn-more a{
