@@ -659,8 +659,12 @@ textarea, input:not(.btn--white){
     height: 180px;
   }
 
-  .blog-post p, .blog-post h2, .blog-post h3, .blog-post ol, .blog-post ul{
+  .blog-post p, .blog-post h2, .blog-post h3, .blog-post ol, .blog-post ul, .blog-post h4, .blog-post h5{
     max-width: 600px;
+  }
+
+  .blog-post h4{
+    margin: auto;
   }
 
   .blog-post img{

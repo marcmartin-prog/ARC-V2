@@ -38,9 +38,14 @@ Here are two excerpts of conversations with students:
 
 *Sitting on the floor in a third level apartment. This student is approximately age 20, she is expecting her first baby in a strange land. She and her young husband share this apartment with relatives. There is a subdued spirit, loneliness, behind her graceful hijab. She sets plates of fresh fruit before us on the floor with a brief smile and says quietly, "Thank-you for you."*
 
-![relaxing](relaxing.jpg "Relaxing with the team")
+{{< imgh src="relaxing.jpg" alt="Relaxing with the Team">}}
 
-![walking to class](walking.jpg "Walking to Class")
+**Relaxing with the Team**
+
+
+{{< imgh src="walking.jpg" alt="Walking to class">}}
+
+**Walking to Class**  
 
 We feel blessed at how God answers prayers and shows us ways to bring Christ into Muslim mindsets. One student wonders what we believe about the afterlife. Another woman uses her daughter as interpreter and asks us how we pray. Another student is appalled at her American neighbor who does not live with her spouse. But then another (of the same religion!) asks a team member about getting a second wife or girlfriend in America, while his true wife remains in Afghanistan. This is when we long to eradicate language barriers!
 
@@ -58,9 +63,15 @@ Thank-you for praying for ARC! For me, this is a world of new possibilities, fri
 
 \-a teacher
 
-![class time](class-time.jpg "Class Time")
 
-![october Team picture](oct-team.jpg "October Team")
+{{< imgh src="class-time.jpg" alt="Class Time">}}
+
+**Class Time**
+
+
+{{< imgh src="oct-team.jpg" alt="October team picture">}}
+
+**October Team Picture**
 
 ### **Staff Highlights**
 
@@ -75,7 +86,9 @@ Thank-you for praying for ARC! For me, this is a world of new possibilities, fri
 * The Sunday services and those who come for the service...much needed inspiration and encouragement!-Janna
 * Hosting visitors was also a big part of the job, and I enjoyed meeting many new people; teachers, board members, visitors interested in ARC ministry, visiting speakers on Sundays, former houseparents & former teachers.-Gwen
 
-![november team pic](nov-team.jpg "November Team")
+{{< imgh src="nov-team.jpg" alt="November Team Picture">}}
+
+**November Team Picture**
 
 ## Building Fund Update
 
@@ -89,7 +102,10 @@ We estimate a building/apartment complex that would meet this need to cost us at
 
 If you feel the Lord’s leading to help with this need please note your contri-bution for “building fund”.
 
-![singing on the metro](singing.jpg "Singing on the Metro")
+
+{{< imgh src="singing.jpg" alt="Singing on the Metro">}}
+
+**Singing on the Metro**
 
 ### P﻿rayer Requests
 
