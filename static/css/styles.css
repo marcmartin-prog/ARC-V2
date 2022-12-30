@@ -275,6 +275,12 @@ textarea, input:not(.btn--white){
   padding: 6px 20px;
 }
 
+.center{
+  margin: auto;
+  display: block;
+  max-width: max-content;
+}
+
 .contact{
   display: flex;
   flex-direction: column;
