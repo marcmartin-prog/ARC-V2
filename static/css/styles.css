@@ -164,7 +164,7 @@ section {
   position: relative;
   padding: 40px var(--padding);
 }
-textarea, input:not(.btn--white){
+textarea, input:not(.btn--white):not(.checkbox){
   width: 280px;
   height: 20px;
 }
@@ -279,6 +279,11 @@ textarea, input:not(.btn--white){
   margin: auto;
   display: block;
   max-width: max-content;
+}
+
+.checkbox{
+  width: 80px;
+  height: 25px;
 }
 
 .contact{
@@ -530,6 +535,11 @@ textarea, input:not(.btn--white){
   margin-bottom: 4px;
   position: relative;
 }
+.checkbox-input{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
 
 .signup{
   display: flex;
@@ -676,6 +686,9 @@ textarea, input:not(.btn--white){
   .blog-post img{
     max-width: 600px;
     max-height: 350px;
+  }
+  textarea, form, select, option, input:not(.btn--white):not(.checkbox){
+    width: 350px;
   }
 }
 

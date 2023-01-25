@@ -1,6 +1,7 @@
 baseURL = "https://arcministry.org/"
 languageCode = "en-us"
 title = "ARC Ministry | Anabaptist Refugee Committee"
+timeout = 90000
 [imaging]
   anchor = 'Smart'
   bgColor = '#ffffff'
