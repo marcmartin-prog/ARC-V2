@@ -7,9 +7,7 @@ summary: We stand on the doorstep of 2023;It's been a year of growth and growing
   and we are grateful.
 thumbnail: unnamed.jpg
 ---
-
-#Fingerprints
- 
+# Fingerprints
 
 Greetings and tidings from ARC! We stand on the doorstep of 2023; the door of 2022 closed behind us. It's been a year of growth and growing pains, but looking back, we see the fingerprints of God scattered all over it, and we are grateful.
 
@@ -35,15 +33,16 @@ Singing as a group has been a beautiful way to spend free time at ARC! The team 
 
 We have been experiencing God's protecting fingerprints all over us as we go about the city. We pray often for protection and God has answered those prayers more often than we know. The heavy traffic, snowy roads, merging freeways, and unfamiliar territory can pose real dangers. The homeless presence has somewhat eased, but it also adds challenges. The property caretaker reported finding homeless men sleeping in the dumpster shed next to the Hive. The constant scenes of people asking for handouts, rampant drug abuse, hostile attitudes, and filthy language adds pressure, and we feel the need for spiritual protection and team work as we face the darkness all around us. We rejoice to know the our Savior has come to give light to them that sit in darkness...to guide our feet in the way of peace. Luke 1:79
 
- 
-
 Grateful for His fingerprints,
 
 Corina Troyer
 
->
-YEAR IN REVIEW
- 
+![admin huddle](admin-huddle.jpg)
+
+![afghani meal](afghani-meal.jpg)
+
+## YEAR IN REVIEW
+
 As we stand on the far bank of 2022, I ponder what have I done with this time capsule that God gave to me… Did I use it in service to my King, or did I waste it with selfish ambitions?
 It is a year ago today, December 31, 2021, that a small group of us representing ARC Ministry attended an Afghan New Year’s eve event in Minneapolis. We were invited to attend this event by a man we met in Fort McCoy last year. He is an Afghan man, a soldier in the USA army, and he hosted this event to connect the Afghans to the community where they now live. It was through connections we made at this event that we were asked to “come teach English”.
 
@@ -58,7 +57,40 @@ A few highlights of the work in Minneapolis in 2022…
 
 Thank you to ALL who have helped make this ministry possible—the staff (both current and past), parents, churches, financial supporters, prayer warriors. God bless you. Please pray for us as the door continues to open and we explore opportunities to work with other refugees in various parts of America. 
 As we progressed through the year, many times I wondered, “Is this ministry worth all the time, money, and effort? Will any of the many seeds that have been planted for Jesus bring forth fruit?” Many times, I have pondered a comment from another brother, “The only way you are guaranteed to not have a harvest is to not sow seeds!”
- 
- 
+
 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good. Ecclesiastes 11:6
-![afghani meal](afghani-meal.jpg)
+
+![december minneapolis team](december-team.jpg)
+
+## B﻿uilding Fund Update
+
+Housing in Minneapolis is quite expensive. It is our largest expense! Currently we are renting a 4 bedroom and a 2 bedroom apartment to house our volunteers. We are also renting a small house that we call the TeaHouse where we teach some of the English classes. All together it is costing almost $6,000 per month.
+
+We need another house for a couple that is planning to come as administrator in January which will raise our monthly rent to around $8,000!
+
+We would like to purchase a property that could fill all of our current needs at one location. This would reduce the mileage, cutting fuel and vehicle maintenance costs.
+
+We estimate a building/apartment complex that would meet this need to cost us at least $600,000. As a new organization, we are not comfortable going deeply in debt and are starting a building fund for this need.
+
+If you feel the Lord’s leading to help with this need please note your contribution for “building fund”.
+
+## P﻿rayer Requests
+
+1. P﻿ray for the refugees that they would see the light of Jesus. For many, this is the first time they have had an opportunity to reed the Bible.
+2. P﻿ray for the staff that they may stand strong spiritually as they live in the city and relate to students.
+3. P﻿ray for long-term volunteers to aid in this work. 
+
+## V﻿olunteer Needs
+
+* V﻿olunteers needed for 6 month to 1 year terms.
+* H﻿ouse parents for 2024
+
+I﻿f you are interested in serving, or would like more information, please contact: [volunteer@arcministry.org](mailto:volunteer@arcministry.org)
+
+
+
+## U﻿krainian Refugee Opportunity
+
+We have immediate need for churches that are willing to open their homes and lives to helping Ukrainian families to get out of bad situations in their home country and resettle here in America. We have a waiting list of families wanting to come but are waiting on sponsors to make this possible. There have been families brought over to America through this program and it is very doable!
+
+If you are interested in this great opportunity, please contact Kevin Weaver and he can answer questions and even put you in contact with churches that are currently hosting Ukrainian families.
