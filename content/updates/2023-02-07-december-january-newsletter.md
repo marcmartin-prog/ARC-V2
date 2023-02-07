@@ -37,9 +37,13 @@ Grateful for His fingerprints,
 
 Corina Troyer
 
-![admin huddle](admin-huddle.jpg)
+{{< imgh src="admin-huddle.jpg" alt="admin huddle">}}
 
-![afghani meal](afghani-meal.jpg)
+**Admin Huddle**
+
+{{< imgh src="afghani-meal.jpg" alt="afghani meal">}}
+
+**Afghani Meal**
 
 ## YEAR IN REVIEW
 
@@ -60,7 +64,9 @@ As we progressed through the year, many times I wondered, “Is this ministry wo
 
 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good. Ecclesiastes 11:6
 
-![december minneapolis team](december-team.jpg)
+{{< imgh src="december-team.jpg" alt="December team">}}
+
+**December Team**
 
 ## B﻿uilding Fund Update
 
@@ -73,6 +79,14 @@ We would like to purchase a property that could fill all of our current needs a
 We estimate a building/apartment complex that would meet this need to cost us at least $600,000. As a new organization, we are not comfortable going deeply in debt and are starting a building fund for this need.
 
 If you feel the Lord’s leading to help with this need please note your contribution for “building fund”.
+
+{{< imgh src="winter-perils.jpg" alt="winter perils">}}
+
+**Winter Perils**
+
+{{< imgh src="shopping.jpg" alt="shopping">}}
+
+**Shopping**
 
 ## P﻿rayer Requests
 
