@@ -47,6 +47,22 @@ function showUpdate(){
   update.style.display = "block";
 }
 
+function formChoice(){
+  let form = document.getElementById('choice').value
+  console.log(form)
+  let minnesota = document.getElementById('minnesota');
+  let texMex = document.getElementById("texmex")
+  if (form == "Minnesota"){
+     minnesota.classList.remove("no-display")
+     texMex.classList.add('no-display')
+     console.log(texMex, minnesota)
+  } else if(form == "Texas-Mexico-Border"){
+    console.log(minnesota, texMex)
+    texMex.classList.remove('no-display')
+    minnesota.classList.add('no-display')
+  }
+}
+
 //floating label on forms
 const FloatLabel = (() => {
 

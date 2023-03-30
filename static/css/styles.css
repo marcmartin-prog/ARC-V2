@@ -169,6 +169,10 @@ textarea, input:not(.btn--white):not(.checkbox){
   height: 20px;
 }
 
+select{
+  height: 28px;
+}
+
 .blog{
   max-width: 600px;
   background-color: var(--tertiary);
@@ -488,6 +492,10 @@ textarea, input:not(.btn--white):not(.checkbox){
 
 .no-top-p{
   padding-top: 0;
+}
+
+.no-display{
+  display: none;
 }
 
 .photo{
