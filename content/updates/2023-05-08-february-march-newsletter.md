@@ -15,7 +15,8 @@ We had many questions and concerns at the beginning. The unknown is always a ste
 
 December 19 was the date we were to meet our family at the Dayton International Airport. Several weeks had been spent preparing for their arrival. Our church congregation enjoyed getting the house ready. The cupboards were full and the furniture in place. As our Ukrainian family, Ruslan, Irina and Kostya, came around the corner, we immediately were charmed by their smiles and warm greetings. While they spoke very little English, our hearts began to knit together as we shared the faithfulness of the Lord in our lives. And so it began. Our new experience with them, and their new experience with America and us.
 
-![Airport arrival](arrival.jpg "Airport Arrival")
+
+{{< imgh src="arrival.jpg" alt="airport arrival">}}
 
 The weeks that followed were wonderful. So many times the hand of God worked seamlessly to fulfill the need or challenge that was in front of us. Prayers were answered. Within a few weeks, an opportunity developed for Ruslan to get a full-time job and driving themselves around became normal. We were blessed with their attendance at our worship services, Bible studies, singings, and in many of our homes. They were so appreciative of all the opportunities they were being given. They always said “yes” to any chance to be together and to fellowship with us. Kostya was enrolled in our local public school within two weeks and that made it possible for Irina to get a job at the Chick-fil-A in town. They were extremely organized in figuring out the paperwork and documentation that they needed to get a social security card and work permits. ARC continued to check in with all of us to make sure everything was going smoothly.  \
   \
@@ -25,13 +26,13 @@ In closing, I want to circle back to the comment I referenced previously—“I
 
 
 
-![February Team](feb-team.jpg "February Team")
+{{< imgh src="feb-team.jpg" alt="feb-team">}}
 
-![March Team](march-team.jpg "March Team")
+{{< imgh src="march-team.jpg" alt="march-team">}}
 
 ## I﻿ntroduction to the New Administrators
 
-![administrators](administrators.jpg "administrators")
+{{< imgh src="administrators.jpg" alt="administrators">}}
 
 Peter, Erin, and their son Oliver Wadel are glad to be part of the Kingdom work in the Twin Cities metro area. They are serving for two years as administrators for ARC Ministry in Minneapolis. They are from the Blue Rock Mennonite Church in southeastern Pennsylvania.  Peter grew up on a farm in Washington Boro, Pennsylvania and worked as a school teacher for thirteen years, then as a lawncare worker for two years. He likes traveling and reading, and reading while traveling, and is hoping for many opportunities for personal and family transformation as he works with ARC Ministry in the coming years.\
 Erin was born in Ontario and was raised mostly in Quebec. Her family lived briefly in Minneapolis when she was young, only a few miles from the ARC Hive.  Erin had worked in a Christian bookstore before she married Peter and moved to Pennsylvania.  She loves to sing and hike, and to sing while she hikes, and is enjoying the challenge and opportunity of meeting the many volunteers and visitors that come to visit the ARC project.   
@@ -40,13 +41,13 @@ Oliver is one and one-half years old, and enjoys trying new foods, playing with 
 
  “We are humbled by the trust that our Afghan friends and students seem to have in us as the ARC team.  We want to honor their friendship and learn how to build relationships that are lasting and that lead us deeper into truth.  Living near and working in the city of Minneapolis with our family, we want to show the heart of the Gospel through our daily living.  Pray for us that we remain focused and faithful.” 
 
-!["Susan" and Teacher](susan-teacher.jpg "\"Susan\" and Teacher")
+{{< imgh src="susan-teacher.jpg" alt="student and teacher">}}
 
-![Staff and Friends](staff-friends.jpg "Staff and Friends")
+{{< imgh src="staff-friends.jpg" alt="staff and friends">}}
 
-![Helping at a shelter](helping.png "Helping at a shelter")
+{{< imgh src="helping.png" alt="helping at a shelter">}}
 
-![Connecting with friends](connecting.png "Connecting")
+{{< imgh src="connecting.png" alt="connecting">}}
 
 ## P﻿otential Answer to Prayer
 
@@ -66,9 +67,9 @@ Unfortunately, we have been running into difficulties in our efforts to pursue t
 
  
 
-![building picture](school1.jpg "Building Picture 1")
+{{< imgh src="school1.jpg" alt="school building">}}
 
-![building picture](school2.jpg "Building Picture 2")
+{{< imgh src="school2.jpg" alt="school building">}}
 
 ### P﻿rayer Requests
 
@@ -90,7 +91,7 @@ I﻿f you are interested in serving, or would like more information, please cont
 
 
 
-![Ukrainian Refugee opportunity](refugee-op.jpg "Ukrainian Refugee Opportunity")
+{{< imgh src="refugee-op.jpg" alt="refugee opportunity">}}
 
 Ukrainian families fleeing the war are seeking refuge in the United States. The situation presents a golden opportunity for the church in America to reach out and help those in need as a true example of Christ’s love.
 ARC is working to connect refugee families with churches willing to host, support and encourage them. Contact Kevin Weaver to begin the process.

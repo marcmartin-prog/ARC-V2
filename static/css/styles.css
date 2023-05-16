@@ -114,6 +114,9 @@ h1{
   color: var(--primary);
   z-index: 2;
 }
+.blog-post h1{
+  color: var(--tertiary);
+}
 h2{
   font-family: 'Nunito Sans', sans-serif;
   font-size: 24px;
@@ -171,6 +174,7 @@ textarea, input:not(.btn--white):not(.checkbox){
 
 select{
   height: 28px;
+  width: 100%;
 }
 
 .blog{
@@ -200,7 +204,7 @@ select{
   margin-right: auto;
   max-height: 250px;
   object-fit: cover;
-
+  object-position: 50% 25%;
 }
 
 .blog-post .bg-center{
@@ -667,6 +671,10 @@ select{
 }
 
 @media only screen and (min-width: 710px){
+
+  form{
+    max-width: 350px;
+  }
   .board{
     flex-direction: row;
     flex-wrap: wrap;
