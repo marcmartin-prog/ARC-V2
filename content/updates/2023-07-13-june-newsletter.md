@@ -23,9 +23,9 @@ Yet we recall also our basic spiritual needs.  In ARC’s border endeavor, we in
 
 *\[The Lord your God]…doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment* (Deuteronomy 10:18). 
 
-![unfinished border wall](wall.jpg)
+{{< imgh src="wall.jpg" alt="unfinished border wall">}}
 
-![saturday fishing trip](fishing.jpg)
+{{< imgh src="fishing.jpg" alt="saturday fishing trip">}}
 
 ## M﻿inneapolis
 
@@ -35,7 +35,8 @@ In April, during the Muslim’s month of Ramadan, classes were not attended as w
 
  We have begun having Sunday morning worship services at the Teahouse, where morning and evening English classes are held through the week. We’ve had a few of our students attend church. Several of them have accepted Bibles or Bible story books. We have more men and women asking to join classes than we have teachers to teach them. Our evening classes with the young men and boys are lively and growing. We are praising God for the miracles we have seen again and again! 
 
-![pinata at student picnic](pinata.jpg)
+
+{{< imgh src="pinata.jpg" alt="pinata at student picnic">}}
 
 We are privileged to have a team of teachers, house parents and administrators that love this work and are giving their time and energy every day toward the goal of bringing the Kingdom of God more fully into the streets and homes of the Twin Cities.  Countless visits in homes, conversations about Jesus and the Bible, shopping trips with students, soccer games, visits to the bank or Social Security office to interpret, fishing expeditions with the boys, ministering to homeless people—the work is endless often confusing or frustrating.   
 
@@ -63,13 +64,13 @@ A﻿nd never be the same?
 
 \-John Bell 
 
-![tending teahouse garden](garden.jpg)
+{{< imgh src="garden.jpg" alt="teahouse garden">}}
 
-![grilling](grililng.jpg)
+{{< imgh src="grililng.jpg" alt="grilling">}}
 
-![Administrator's family](family.jpg)
+{{< imgh src="family.jpg" alt="administrator's family">}}
 
-![new teacher test](new-teacher.jpg)
+{{< imgh src="new-teacher.jpg" alt="new teacher test">}}
 
 ## P﻿rayer Requests
 
