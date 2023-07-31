@@ -53,13 +53,14 @@ description: "Volunteer to work with ARC Ministry in helping refugees and immigr
         <br>
         <label for="choice" class="select">Where are you volunteering?</label>
         <select name="choice" id="choice" onchange="formChoice()">
+          <option value="Choose Where You Are Volunteering." hidden selected disabled></option>
           <option value="Minnesota">Minnesota</option>
           <option value="Texas-Mexico-Border">Texas-Mexico Border</option>
         </select>
       </div>
     </form>
     <br>
-    <form name='Minnesota-Application' id="minnesota" action="thanks.html" method="post" data-netlify="true" data-secure>
+    <form name='Minnesota-Application' id="minnesota" class="no-display" action="thanks.html" method="post" data-netlify="true" data-secure>
       <p>Before volunteering online, please read the guidelines. </p>
     <a class="btn--white center" href="/documents/Guidelines_and_Application_Minneapolis.pdf">GUIDELINES</a>
     <br>
