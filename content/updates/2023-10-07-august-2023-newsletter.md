@@ -16,9 +16,9 @@ Just another day when…\
 …We have a “normal” morning of sitting on cushions and rugs drinking tea, teaching Phonics, and babysitting little folks with huge heart-melting brown eyes. We whirl off for lunch at a city-friend’s house where she has created a picture-perfect tea party with more beautiful food than our small group can consume. We eat, drink tea, go on a walk through “country woods”, then hurry to our next class. At the “next class,” one student doesn’t show up at all but another woman from the apartment complex walks in and asks the teachers to serge a hijab for her–again. This has happened before, but this time she asks for hot pink thread to be used so it will match. It is highly unlikely the owner of the serger will invest in giant spools of hot pink for one hijab, so they reach an understanding–the hijab will be serged, but it probably won’t be done with pink thread. The girls hasten home and two team members fix dinner for the Hivers. Turns out the guys have a local contact who has spent time with them on different occasions. They invited P to join the team for dinner and the evening. Also, a number of visitors arrived from out of state to visit the Hive and different team members and one of them joined the group for 
 dinner. Afterward, the team took a walk and the guys paused on the sidewalk to observe an ant hill war and ended up in a long discussion on intelligent design and evolution with P. Meanwhile, on their walk along the Green Way, the girls were accosted by a respectful “typical American” couple who identified as Mennonite. They visited for a little and asked about our purpose for being in Minneapolis before going on their way. The cultural kaleidoscope of the day is complete with a whirl of spikeball enjoyed by P, the team, and any of the visitors who wished to join. Typical Friday? In Minneapolis. 
 
-![Activities](children-bikes.jpg)
+{{< imgh src="children-bikes.jpg" alt="children playing with bikes">}}
 
-![august team](augteam.jpg "August Team")
+{{< imgh src="augteam.jpg" alt=" august team">}}
 
 …Two of our students need to go shopping before Eid, and naturally, English Teacher, when translated, reads as Taxi-on-Call. So, we schedule a time that suits all of our schedules; and the two ladies, their two children and the teachers make their way to “The Afghan Store”. Once there the girls shadow the children around the store attempting to make sure nothing is destroyed while the ladies make up their minds on various items. It’s a variety store, full of hallal ethnic foods, traditional dresses hanging on racks, dishes and tea sets, and stacks of boxes waiting to be unpacked. We had thought of buying naan for the Hive dinner that evening, but the baker wasn’t in. Despite the assurances from the proprietor that as soon as the baker arrives we can certainly have some naan, he never showed his face during our entire hour on the premises. We tried to keep the children happy, and finally their moms were finished and we could bring them home again. The grateful mothers treated their drivers to Gatorade and Twix bars as a thank you.\
 …As for the story of the naan for the Hive, the baker was in a  couple of weeks later on another day of shopping at the same store. The girls seized the opportunity to get some of the fresh naan and carried it to the counter to pay. But on reaching the counter the guy insisted they could not pay, “There is no charge. You help our people, and we show our appreciation for what you do, by giving you this.”\
@@ -29,23 +29,22 @@ because Teacher specifically said to ‘Stay off the counter’, and they want t
 …We as a team sit in the Hive living room, Bibles on our laps, physically hungry, spiritually thirsting with an intensified longing for more of God for ourselves, while praying for the salvation of our Afghan friends. The prayer and fast days are invaluable, a powerful refocus point when we realize again why we’re here in Minneapolis and plead for the power of God to work among these people. It is far too easy to fall into a rhythm of teaching while enjoying the friendships and adventures, forgetting the tragic truth that the students we love are bound in darkness and time is short. It’s heart-wrenching to realize the destiny of our friends unless they hear and believe the Truth. We are only a very small part in God’s grand scheme, privileged to be here with these people “for such a time as this”, begging for God Himself to do His work in His way for His glory. 
 -Monica Bauman
 
-![ant hill war](anthillwar.jpg)
+{{< imgh src="anthillwar.jpg" alt="ant hill war">}}
 
-![Eid celebration](eidcelebration.jpg)
-
+{{< imgh src="eidcelebration.jpg" alt="eid celebration">}}
 
 
 ## B﻿uilding Fund Update
 
  We did receive the minimum amount of funds that we had requested to purchase the Roseville house, however due to zoning regulations we were unable to purchase it. Basically, the only option that we see at this point is purchasing a multi-family home such as a quadplex. The few quadplexes that are available are very expensive or need substantial work/repairs to be usable for our team. Pray that God would open this door as He sees best and that he would give us wisdom as we make decisions such as where to purchase and how much to spend.
 
-![](piano.jpg)
+{{< imgh src="piano.jpg" alt="playing Piano">}}
 
-![](teamgirls.jpg)
+{{< imgh src="teamgirls.jpg" alt="team girls">}}
 
-![](studying.jpg)
+{{< imgh src="studying.jpg" alt="studying">}}
 
-![](stdies.jpg)
+{{< imgh src="stdies.jpg" alt="studies">}}
 
 ## P﻿rayer Requests
 
