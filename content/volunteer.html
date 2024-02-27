@@ -288,6 +288,7 @@ description: "Volunteer to work with ARC Ministry in helping refugees and immigr
           <option value="WhatsApp">WhatsApp</option>
           <option value="Telegram/Cloudveil">Telegram/Cloudveil</option>
           <option value="Neither">Neither</option>
+          <option value="Both">Both</option>
         </select>
       </div>
       <div class="select-input">
@@ -315,6 +316,7 @@ description: "Volunteer to work with ARC Ministry in helping refugees and immigr
       <div class="select-input">
         <label for="Coming-as-Couple?" class="select">If yes, are you coming as a couple?</label>
         <select class="" name="Coming-as-a-Couple">
+          <option value="Not-couple" hidden disabled selected>Select</option>
           <option value="Yes">Yes</option>
           <option value="No">No</option>
         </select>
@@ -421,12 +423,11 @@ description: "Volunteer to work with ARC Ministry in helping refugees and immigr
       <div class="select-input">
         <label for="commitment" class="select">How long of a term are you able to commit to?</label>
         <select class="" name="commitment" required>
-          <option value="2 Months">2 Months</option>
           <option value="6 Months">6 Months</option>
-          <option value="1 Year">1 Year</option>
+          <option value="1 Year" selected >1 Year</option>
         </select>
       </div>
-      <p>We are asking a minimum of 2 months for general volunteers and 6 months for house parents.</p>
+      <p>We prefer a 1 year commitment, but require a 6 month commitment for general volunteers and house parents.</p>
     <div class="form-input">
       <label for="available-date">When Can You Start?</label>
       <input type="text" class="input" data-placeholder="Starting Date" name="available-date" value="" required>
