@@ -237,6 +237,14 @@ description: "Volunteer to work with ARC Ministry in helping refugees and immigr
       <label for="available-date">When Can You Start?</label>
       <input type="text" class="input" data-placeholder="Starting Date" name="available-date" value="" required>
     </div>
+    <div class="select-input">
+      <label for="4029-exempt" class="select">For tax reasons, are you 4029 exempt?</label>
+      <select class="" name="4029-exempt" required>
+        <option value="Choose 4029 Status" selected disabled hidden>Choose 4029 Status</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
+    </div>
       <div class="form-input">
         <label for="Message">Any Notes</label>
         <textarea name="Message" class="input" data-placeholder="Notes" rows="1" cols="80"></textarea>
@@ -421,16 +429,21 @@ description: "Volunteer to work with ARC Ministry in helping refugees and immigr
         <textarea name="language-details" class="input" data-placeholder="Language Details" rows="1" cols="80"></textarea>
       </div>
       <div class="select-input">
-        <label for="commitment" class="select">How long of a term are you able to commit to?</label>
-        <select class="" name="commitment" required>
-          <option value="6 Months">6 Months</option>
-          <option value="1 Year" selected >1 Year</option>
-        </select>
+        <label for="commitment" class="select">How long of a term are you able to commit to? No less than 6 months for general volunteers and 2 years for administrators.</label>
+        <input type="text" name="commitment" id="" class="input" data-placeholder="Term Length" required>
       </div>
       <p>We prefer a 1 year commitment, but require a 6 month commitment for general volunteers and house parents.</p>
     <div class="form-input">
       <label for="available-date">When Can You Start?</label>
       <input type="text" class="input" data-placeholder="Starting Date" name="available-date" value="" required>
+    </div>
+    <div class="select-input">
+      <label for="4029-exempt" class="select">For tax reasons, are you 4029 exempt?</label>
+      <select class="" name="4029-exempt" required>
+        <option value="Choose 4029 Status" selected disabled hidden>Choose 4029 Status</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
     </div>
       <div class="form-input">
         <label for="Message">Any Notes</label>

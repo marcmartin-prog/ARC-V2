@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Projects | ARC Ministry on ARC Ministry | Anabaptist Refugee Committee</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Current Projects | ARC Ministry on ARC Ministry | Anabaptist Refugee Committee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2022 12:32:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sponsor Application</title>
+      <link>http://localhost:1313/projects/sponsor-application/</link>
+      <pubDate>Thu, 11 Aug 2022 06:40:44 -0500</pubDate>
+      
+      <guid>http://localhost:1313/projects/sponsor-application/</guid>
+      <description>SPONSOR A FAMILYINTERESTED IN SPONSORING A FAMILY?We&#39;ve identified some opportunities for interested families and churches to sponsor Ukrainian families through the Uniting for Ukraine Program. If you, or someone you know is interested, please submit the form below, and we&#39;ll be in touch as soon as possible!
+Full NameEmailPhoneYour ChurchYour City and StateMessage</description>
+    </item>
+    
+    <item>
+      <title>Minneapolis Project | ARC Ministry</title>
+      <link>http://localhost:1313/projects/minneapolis/</link>
+      <pubDate>Wed, 10 Aug 2022 06:02:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/projects/minneapolis/</guid>
+      <description>MINNEAPOLIS PROJECT The Tea House
+FROM THE &#34;TEA HOUSE&#34; Our team consists of houseparents and young single men and ladies. We’ve rented a house that we call the “Tea House”. This is where the young men teach their men’s English classes. They teach morning and afternoon classes 5 days a week, and have an evening class a couple evenings a week. The young ladies have a bit different schedule. They travel to the apartments of the students and have English classes with the ladies and children.</description>
+    </item>
+    
+  </channel>
+</rss>
